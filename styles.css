@@ -1,0 +1,33 @@
+div {
+  font-family: 'Raleway', sans-serif;
+  font-size: 1.6em;
+  letter-spacing: 2em;
+
+  width: 100vw;
+  height: 50vh;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.sky {
+  background: #e73c83;
+  color: #fbdbe8;
+}
+
+.ground {
+  color: #f1c40f;
+  background: #000000;
+}
+
+p {
+  font-family: 'Raleway', sans-serif;
+  font-size: 1.6em;
+  padding: 0px 40px 0px 40px;
+  color: blue;
+}
+
+twitter-timeline {
+  width: 100vw;
+}
